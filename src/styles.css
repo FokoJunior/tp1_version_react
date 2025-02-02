@@ -1,0 +1,19 @@
+/* Animation pour les cartes */
+.card {
+    transition: transform 0.3s;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Style pour la section hero */
+  #hero {
+    background-image: url('image1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Style pour le formulaire */
+  #contact {
+    background-color: #f8f9fa;
+  }
